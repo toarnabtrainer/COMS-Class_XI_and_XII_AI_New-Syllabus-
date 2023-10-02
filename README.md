@@ -24,8 +24,21 @@
   
 <br>
 
+**Pressman E-Book Download Link:**<br>
+https://www.mlsu.ac.in/econtents/16_EBOOK-7th_ed_software_engineering_a_practitioners_approach_by_roger_s._pressman_.pdf
+
 **Python Download Link:**<br>
-**Anaconda Download Link:** https://www.anaconda.com/products/distribution
+**Anaconda Download Link:** <br>
+https://www.anaconda.com/products/distribution
+
+**How to install Anaconda on Windows 10 (2022):**<br>
+https://www.youtube.com/watch?v=UTqOXwAi1pE
+
+**How to uninstall Anaconda completely from Windows 10:**<br>
+https://www.youtube.com/watch?v=OUkHXMwu-JY
+
+**For Diagram Making:**<br>
+https://app.diagrams.net/?libs=general;uml#
 
 **Online Python Editors:**<br>
 https://onecompiler.com/<br>
@@ -36,6 +49,19 @@ https://www.onlinegdb.com/
 **Python Practice Book:** https://anandology.com/python-practice-book/index.html<br>
 **Learn Python Programming (programmiz.com):** https://www.programiz.com/python-programming<br>
 **Learn Python Programming (data-flair):** https://data-flair.training/blogs/python-tutorial/
+
+**NumPy Tutorial Link:** https://numpy.org/doc/stable/user/quickstart.html<br>
+**Pandas Tutorial Link:** https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html<br>
+**MatplotLib Full Tutorial Link:** https://matplotlib.org/stable/gallery/index.html<br>
+**Seaborn Full Tutorial Link:** https://seaborn.pydata.org/examples/grouped_violinplots.html<br>
+**Python Official Site Link:** https://docs.python.org/<br>
+
+**HTML Color Codes:**<br>
+https://htmlcolorcodes.com/
+
+**HYML Text Tutorial Link:**<br>
+https://www.w3schools.com/html/default.asp
+
 
 <hr>
 
