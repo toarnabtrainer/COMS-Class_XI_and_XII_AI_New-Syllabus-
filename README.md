@@ -1,10 +1,10 @@
-# COMS-Class_XI_and_XII_AI_New-Syllabus-
-COMS-Class_XI_and_XII_AI_New-Syllabus 
-# CMOS-Class_XI_and_XII_New-Syllabus
+# COMS-Class_XI_and_XII_AI_New-Syllabus
 
 **MS-Teams Meeting Link for all Sessions:** https://tinyurl.com/ynbtjzcc<br>
-**GitHub Link for all Classwork Files:** https://github.com/toarnabtrainer/CMOS-Class_XI_and_XII_New-Syllabus<br>
+**GitHub Link for all Classwork Files:** https://github.com/toarnabtrainer/COMS-Class_XI_and_XII_AI_New-Syllabus<br>
 <br>
+<hr>
+
 ### Class Video Youtube Links:
 * **COMS Day 1 - Video Link (Introduction to Machine Learning with Statistics):** https://tinyurl.com/457wy5s2
 * **COMS Day 2 - Video Link ():**
@@ -21,6 +21,7 @@ COMS-Class_XI_and_XII_AI_New-Syllabus
 * **COMS Day-13 - Video Link ():**
 * **COMS Day-14 - Video Link ():**
 * **COMS Day-15 - Video Link ():**
+<hr>
   
 <br>
 
