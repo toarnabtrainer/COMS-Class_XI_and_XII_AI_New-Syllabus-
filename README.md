@@ -2,7 +2,6 @@
 
 **MS-Teams Meeting Link for all Sessions:** https://tinyurl.com/ynbtjzcc<br>
 **GitHub Link for all Classwork Files:** https://github.com/toarnabtrainer/COMS-Class_XI_and_XII_AI_New-Syllabus<br>
-<br>
 <hr>
 
 ### Class Video Youtube Links:
