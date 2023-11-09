@@ -7,7 +7,7 @@
 ### Class Video Youtube Links:
 * **COMS Day 1 - Video Link (Introduction to Machine Learning with Statistics):** https://tinyurl.com/457wy5s2
 * **COMS Day 2 - Video Link (Organizing Data: Frequency Distribution):** https://tinyurl.com/52mvj3ak
-* **COMS Day 3 - Video Link (Data Description):** 
+* **COMS Day 3 - Video Link (Data Description):** https://tinyurl.com/28du9tz9
 * **COMS Day 4 - Video Link ():**
 * **COMS Day 5 - Video Link ():**
 * **COMS Day 6 - Video Link ():**
