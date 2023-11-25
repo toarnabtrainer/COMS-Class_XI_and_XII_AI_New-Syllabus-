@@ -9,7 +9,7 @@
 * **COMS Day 2 - Video Link (Organizing Data: Frequency Distribution):** https://tinyurl.com/52mvj3ak
 * **COMS Day 3 - Video Link (Data Description):** https://tinyurl.com/28du9tz9
 * **COMS Day 4 - Video Link (Probability and Counting Rules):** https://tinyurl.com/2tkes53a 
-* **COMS Day 5 - Video Link ():**
+* **COMS Day 5 - Video Link (Hypothesis Testing):** 
 * **COMS Day 6 - Video Link ():**
 * **COMS Day 7 - Video Link ():**
 * **COMS Day 8 - Video Link ():**
