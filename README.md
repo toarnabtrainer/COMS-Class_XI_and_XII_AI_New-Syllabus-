@@ -62,6 +62,8 @@ https://htmlcolorcodes.com/
 **HYML Text Tutorial Link:**<br>
 https://www.w3schools.com/html/default.asp
 
+**Google Drive Link for E-Books on Machine Learning:**<br>
+https://drive.google.com/drive/folders/15ho9XljDUk0X6OHawuQHX5uuzS4XAuut?usp=sharing
 
 <hr>
 
