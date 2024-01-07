@@ -59,7 +59,7 @@ https://www.onlinegdb.com/
 **HTML Color Codes:**<br>
 https://htmlcolorcodes.com/
 
-**HYML Text Tutorial Link:**<br>
+**HTML Text Tutorial Link:**<br>
 https://www.w3schools.com/html/default.asp
 
 **Google Drive Link for E-Books on Machine Learning:**<br>
