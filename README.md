@@ -13,8 +13,8 @@
 * **COMS Day 6 - Video Link (Introduction to Machine Learning (Part-1)):** https://tinyurl.com/4uzywtvu 
 * **COMS Day 7 - Video Link (Introduction to Machine Learning (Part-2)):** http://tinyurl.com/mr2vrnjf
 * **COMS Day 8 - Video Link (Introduction to NumPy):** http://tinyurl.com/t4229dnz
-* **COMS Day 9 - Video Link ():**
-* **COMS Day 10 - Video Link ():**
+* **COMS Day 9 - Video Link (Introduction to Pandas - 1/2):**
+* **COMS Day 10 - Video Link (Introduction to Pandas - 2/2):**
 * **COMS Day 11 - Video Link ():**
 * **COMS Day 12 - Video Link ():**
 * **COMS Day-13 - Video Link ():**
