@@ -11,9 +11,9 @@
 * **COMS Day 4 - Video Link (Probability and Counting Rules):** https://tinyurl.com/2tkes53a 
 * **COMS Day 5 - Video Link (Hypothesis Testing):** https://tinyurl.com/m8prv6we
 * **COMS Day 6 - Video Link (Introduction to Machine Learning (Part-1)):** https://tinyurl.com/4uzywtvu 
-* **COMS Day 7 - Video Link (Introduction to Machine Learning (Part-2)):** http://tinyurl.com/mr2vrnjf
-* **COMS Day 8 - Video Link (Introduction to NumPy):** http://tinyurl.com/t4229dnz
-* **COMS Day 9 - Video Link (Python Pandas Module Session - 1):** http://tinyurl.com/mu2zssy6 
+* **COMS Day 7 - Video Link (Introduction to Machine Learning (Part-2)):** https://tinyurl.com/mr2vrnjf
+* **COMS Day 8 - Video Link (Introduction to NumPy):** https://tinyurl.com/t4229dnz
+* **COMS Day 9 - Video Link (Python Pandas Module Session - 1):** https://tinyurl.com/mu2zssy6 
 * **COMS Day 10 - Video Link (Python Pandas Module Session - 2):**
 * **COMS Day 11 - Video Link ():**
 * **COMS Day 12 - Video Link ():**
