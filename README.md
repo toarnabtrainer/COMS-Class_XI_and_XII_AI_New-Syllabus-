@@ -15,8 +15,8 @@
 * **COMS Day 8 - Video Link (Introduction to NumPy):** https://tinyurl.com/t4229dnz
 * **COMS Day 9 - Video Link (Python Pandas Module Session - 1):** https://tinyurl.com/mu2zssy6 
 * **COMS Day 10 - Video Link (Python Pandas Module Session - 2):** http://tinyurl.com/mu2zssy6 
-* **COMS Day 11 - Video Link ():**
-* **COMS Day 12 - Video Link ():**
+* **COMS Day 11 - Video Link (Python Pandas Module Session - 3):**
+* **COMS Day 12 - Video Link (Python Pandas Module Session - 4):**
 * **COMS Day-13 - Video Link ():**
 * **COMS Day-14 - Video Link ():**
 * **COMS Day-15 - Video Link ():**
