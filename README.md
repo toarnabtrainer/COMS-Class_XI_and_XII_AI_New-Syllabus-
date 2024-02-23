@@ -16,7 +16,7 @@
 * **COMS Day 9 - Video Link (Python Pandas Module Session - 1):** https://tinyurl.com/mu2zssy6 
 * **COMS Day 10 - Video Link (Python Pandas Module Session - 2):** https://tinyurl.com/yfadkkn2 
 * **COMS Day 11 - Video Link (Python Pandas Module Session - 3):** http://tinyurl.com/mry82p57 
-* **COMS Day 12 - Video Link ():**
+* **COMS Day 12 - Video Link (Data Visualization):** 
 * **COMS Day-13 - Video Link ():**
 * **COMS Day-14 - Video Link ():**
 * **COMS Day-15 - Video Link ():**
