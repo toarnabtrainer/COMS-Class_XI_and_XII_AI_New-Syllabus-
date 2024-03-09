@@ -24,8 +24,8 @@
   
 <br>
 
-**Pressman E-Book Download Link:**<br>
-https://www.mlsu.ac.in/econtents/16_EBOOK-7th_ed_software_engineering_a_practitioners_approach_by_roger_s._pressman_.pdf
+**Pressman E-Book Download Link (8th Edition):**<br>
+https://invent.ilmkidunya.com/images/Section/12.pdf
 
 **Python Download Link:**<br>
 **Anaconda Download Link:** <br>
