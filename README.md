@@ -19,7 +19,7 @@
 * **COMS Day 12 - Video Link (Data Visualization):** http://tinyurl.com/4dmjhbks
 * **COMS Day-13 - Video Link (Correlation and Regression - 1):** https://tinyurl.com/58x2tawf
 * **COMS Day-14 - Video Link (Correlation and Regression - 2):** https://tinyurl.com/zx78ctta
-* **COMS Day-15 - Video Link ():**
+* **COMS Day-15 - Video Link (Linear, Ridge and LASSO Regression Implementation):**
 <hr>
   
 <br>
