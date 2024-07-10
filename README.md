@@ -21,6 +21,9 @@
 * **COMS Day-14 - Video Link (Correlation and Regression - 2):** https://tinyurl.com/zx78ctta
 * **COMS Day-15 - Video Link (Linear, Ridge and LASSO Regression Implementation):** https://tinyurl.com/4dvu4ern
 <hr>
+
+* **COMS Day-16 - Video Link (Algorithsma and Complexity Analysis):** 
+<hr>
   
 <br>
 
