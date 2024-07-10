@@ -22,7 +22,7 @@
 * **COMS Day-15 - Video Link (Linear, Ridge and LASSO Regression Implementation):** https://tinyurl.com/4dvu4ern
 <hr>
 
-* **COMS Day-16 - Video Link (Algorithsma and Complexity Analysis):** 
+* **COMS Day-16 - Video Link (Algorithms and Complexity Analysis):** 
 <hr>
   
 <br>
