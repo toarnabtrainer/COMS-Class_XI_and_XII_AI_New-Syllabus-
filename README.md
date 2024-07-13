@@ -23,6 +23,8 @@
 <hr>
 
 * **COMS Day-16 - Video Link (Algorithms and Complexity Analysis):** https://tinyurl.com/4kcz5sp5
+* **COMS Day-17 - Video Link (Logistic Regression Implementation):** 
+* 
 <hr>
   
 <br>
