@@ -26,7 +26,7 @@
 * **COMS Day-17 - Video Link (Logistic Regression Implementation) (Part-1):** https://tinyurl.com/3n6dd5nm 
 * **COMS Day-18 - Video Link (Logistic Regression Implementation) (Part-2):** https://tinyurl.com/32h5ey95
 * **COMS Day-19 - Video Link (SQLite Database with Python):** https://tinyurl.com/7c86bhzn
-* 
+* **COMS Day-20 - Video Link (K-Means Calculations):** 
 
 <hr>
   
