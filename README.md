@@ -28,10 +28,10 @@
 * **COMS Day-19 - Video Link (SQLite Database with Python):** https://tinyurl.com/7c86bhzn
 * **COMS Day-20 - Video Link (K-Means Calculations):** https://tinyurl.com/yhsju7yd
 * **COMS Day-21 - Video Link ():** 
-* **COMS Day-21 - Video Link ():** 
-* **COMS Day-21 - Video Link ():** 
-* **COMS Day-21 - Video Link ():** 
-* **COMS Day-21 - Video Link ():** 
+* **COMS Day-22 - Video Link ():** 
+* **COMS Day-23 - Video Link ():** 
+* **COMS Day-24 - Video Link ():** 
+* **COMS Day-25 - Video Link ():** 
 
 <hr>
   
