@@ -29,7 +29,7 @@
 * **COMS Day-20 - Video Link (K-Means Calculations):** https://tinyurl.com/yhsju7yd
 * **COMS Day-21 - Video Link (Confusion Matrix, Classification Report and Cross-Validation):** https://tinyurl.com/2nmwu6nf
 * **COMS Day-22 - Video Link (K-NN Calculations):** https://tinyurl.com/57ufp4f9
-* **COMS Day-23 - Video Link ():** 
+* **COMS Day-23 - Video Link (K-NN Classifier Implementation):** 
 * **COMS Day-24 - Video Link ():** 
 * **COMS Day-25 - Video Link ():** 
 
