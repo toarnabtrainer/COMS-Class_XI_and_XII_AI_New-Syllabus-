@@ -32,7 +32,11 @@
 * **COMS Day-23 - Video Link (K-NN Classifier Implementation):** https://tinyurl.com/yh3vyn26
 * **COMS Day-24 - Video Link (Decision Tree Implementation):** 
 * **COMS Day-25 - Video Link ():** 
-
+* **COMS Day-26 - Video Link ():**
+* **COMS Day-27 - Video Link ():**
+* **COMS Day-28 - Video Link ():**
+* **COMS Day-29 - Video Link ():**
+* **COMS Day-30 - Video Link ():** 
 <hr>
   
 <br>
